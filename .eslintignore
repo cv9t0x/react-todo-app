@@ -1,0 +1,6 @@
+# root
+node_modules
+craco.config.js
+
+# src
+src/react-app-env.d.ts
